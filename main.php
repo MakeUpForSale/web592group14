@@ -45,8 +45,8 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 </header>
 <div class="container">
 <div class="col-sm-3">
-<?php panel_include("User","user.php"); ?>
-<?php panel_include("Menu","menu.php"); ?>
+<?php panel_include("User","main_user.php"); ?>
+<?php panel_include("Menu","main_menu.php"); ?>
 </div>
 <div class="col-sm-9">
 <?php panel_include($title,"work8_body.php" ,"primary"); ?>
