@@ -49,7 +49,7 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 <?php panel_include("Menu","main_menu.php"); ?>
 </div>
 <div class="col-sm-9">
-<?php panel_include($title,"work8_body.php" ,"primary"); ?>
+<?php panel_include($title,"main_body.php" ,"primary"); ?>
 </div>
 </div>
  <footer class="text-center page-footer">
