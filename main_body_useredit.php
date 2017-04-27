@@ -17,7 +17,7 @@ if(!$user) return;
  $json = json_encode($userdata, JSON_PRETTY_PRINT);     
  $userfile  = "gs://$appid/user_$uid.json";     
  file_put_contents($userfile,$json);     
- echo "<br>บันทึกเรียบร้อย  <a href='main.php?p=edituser'>ตกลง</a>";     
+ echo "<br>บันทกึเรยีบรอ้ย  <a href='main.php?p=edituser'>ตกลง</a>";     
  return;   
  }      
  ?> 
@@ -34,8 +34,8 @@ if(!$user) return;
  <input class="form-control" type='text' name='lname' value="<?=$userdata["lname"]?>"> 
  </div> 
  <div class="form-group col-md-6">  
- <label for="file">สีที่ชอบ</label>  
- <input class="form-control" type='color' name='color' value="<?=$userdata["color"]?>"> 
+ <label for="file">Tel</label>  
+ <input class="form-control" type='tel' name='tel' value="<?=$userdata["tel"]?>"> 
  <div class="form-group col-md-6">  
  <label for="file">Picture</label>  
  <input class="form-control" type='file' name='pic'> 
