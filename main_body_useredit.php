@@ -17,7 +17,7 @@ if(!$user) return;
  $json = json_encode($userdata, JSON_PRETTY_PRINT);     
  $userfile  = "gs://$appid/user_$uid.json";     
  file_put_contents($userfile,$json);     
- echo "<br>บันทึกเรียบร้อย  <a href='ทฟรื.php?p=edituser'>ตกลง</a>";     
+ echo "<br>บันทึกเรียบร้อย  <a href='main.php?p=edituser'>ตกลง</a>";     
  return;   
  }      
  ?> 
