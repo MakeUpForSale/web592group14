@@ -17,8 +17,9 @@
                                 <img src="images/1.png" alt="Product Title" ">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-                                <h5><a href="#">PRIMER</a></h5>
-                                <p>ไพรเมอร์ จะทำหน้าที่เตรียมผิวก่อนแต่งหน้า โดยทำหน้าที่กระชับรูขุมขน ทำให้รูขุมขนดูเล็กลง ผิวดูกระชับขึ้นทำให้การลงรองพื้นดูเนียนเรียบ ป้องกันผิวหน้าหมองคล้ำระหว่างวัน และทำให้เครื่องสำอางติดทนนานยิ่งขึ้น</p>
+                                <h5><a href="#">Laura Mercier Velour Lovers Lip Colour#Coquette 2.75g</a></h5>
+								<span class="price">ราคา  760 บาท</span>
+                                <p>ลิปสติกสีมาแรง! สวยมีเสน่ห์สร้างความโดดเด่นให้คุณ สีเรียบหรูใครทาก็เกิด</p>
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
@@ -26,8 +27,9 @@
                                 <img src="images/2.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-							<h5><a href="#">EYELINER</a></h5>
-                                <p>อายไลเนอร์ (Eyeliner) เป็นเครื่องสำอางที่ใช้เขียนบริเวณรอบดวงตา เพื่อสร้างความหลากหลายให้กับดวงตา ทั้งดวงตาแบบหวาน ลึกลับ โฉบเฉียว หรือมีสเน่ห์น่าค้นหา อีกทั้งยังช่วยทำให้ดวงตาดูโตขึ้นมากกว่าปกติ ซึ่งอายไลเนอร์นี้มีประวัติการใช้งานคู่กับคุณสาวๆ มาอย่างยาวนาน นับย้อนไปตั้งแต่สมัยอียิปต์โบราณ</p> 
+							<h5><a href="#"></a>Wet N Wild MegaLast Liquid Catsuit Matte Lipstick #922b Coral Corruption 6g</h5>
+							<span class="price">ราคา 390 บาท</span>
+                                <p> ลิปสติกเนื้อแมทท์สีสวยชัด แต่เนื้อเบาไม่หนักปาก สุดฮอตจากLA</p> 
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="clearfix"></div>
@@ -40,8 +42,9 @@
                                 <img src="images/3.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-							<h5><a href="#">LIPSTICK</a></h5>
-                                <p>ลิปสติก คือ เครื่องสำอางที่ใช้แต่งริมฝีปาก มักเป็นสีแดงหรือสีชมพู ทำให้ริมฝีปากสวยงาม และปกปิดความบกพร่องของริมฝีปาก</p>
+							<h5><a href="#"></a>THREE Velvet Lust Lipstick #18 4g </h5>
+							<span class="price">ราคา  1200 บาท</span>
+                                <p>ลิปสติกเนื้อละมุนเนียนดุจกำมะหยี่ มอบผลลัพธ์สีสันคมชัดแฝงเสน่ห์ลุ่มลึกให้ชวนค้นหา</p>
                                 </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
@@ -49,31 +52,52 @@
                                 <img src="images/4.png" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-							<h5><a href="#">BLUSH</a></h5>
-                                <p>บลัชออน คือเครื่องสำอางที่ช่วยเพิ่มสีสันบริเวณแก้ม และยังช่วยสร้างมิติของใบหน้าให้ดูเล็กลงหรือเรียวงามขึ้น นอกจากนี้ยังทำให้ใบหน้าดูนวลเนียน ทำให้สีสันบนใบหน้าดูเด่นชัดขึ้น</p>
+							<h5><a href="#"></a>KYLIE Lip Kit #Posie K 3ml + Pencil Liner 1g </h5>
+							<span class="price">ราคา 2100  บาท</span>
+                                <p>ลิปแมทของไอดอลคนดัง ที่หมด!! ภายใน 1 นาที แมทต์เรียบสนิทไปกับปาก ดีงามจนบล็อกเกอร์หามารีวิว</p>
                                </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="clearfix"></div>
                     </div> <!-- /.product-holder -->
                 </div> <!-- /.col-md-5 -->
-				<div class="col-md-3">
-                    <div class="product-holder">
-                        <div class="product-item-2">
-                            <div class="product-thumb">
-                                <img src="images/5.jpg" alt="Product Title">
-                            </div> <!-- /.product-thumb -->
-                            <div class="product-content overlay">
-                                <h5><a href="#">EYESHADOW</a></h5>
-                                <p>เครื่องสำอางค์ที่ใช้ปัดทาบนเปลือกตาใต้คิ้ว เพื่อให้เกิดมิติความลึกของตาในแต่ละข้าง นอกจากนั้นแล้วยังทำให้ดูแล้วเด่น มีเสน่ห์อีกด้วย อายแชโดว์ มีหลายชนิด และมีสีสันต่างๆ มากมาย โดยปกติแล้วจะทำมาจากแป้ง และไมก้า ในบางครั้งอาจจะพบอายแชโดว์ในรูปของเหลว ดินสอ ได้เช่นกัน</p>
-                            </div> <!-- /.product-content -->
-                        </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
                             <div class="product-thumb">
                                 <img src="images/6.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-                                <h5><a href="#">POWDER</a></h5>
-                                <p>แป้งฝุ่น: คือ แป้งชนิดที่มีเนื้อละเอียดบางเบาเหมือนฝุ่นละอองเล็กๆ เหมาะสำหรับทาทับลงบนผิวหน้าหลังจากการรองพื้น หรือทาคอนซีลเลอร์ไว้ แป้งฝุ่นมีคุณสมบัติ ช่วยให้ผิวดูนวลเนียนเป็นธรรมชาติยิ่งขึ้น และช่วยดูดซับความมันหลังการแต่งหน้าได้เป็นอย่างดี ควรใช้แป้งฝุ่นสีเดียวกันกับผิวเรา </p>
+                                <h5><a href="#">JILL STUART Rouge My Dress #04 Flower Katyusha 5g </a></h5>
+								<span class="price">ราคา 1050 บาท</span>
+                                <p>ลิปสติกที่ละลายราวกับเนื้อครีมและเต็มเปี่ยมไปด้วยความชุ่มชื้น งามราวกับคุณใส่ชุดเดรสที่แสนวิเศษ</p>
+                            </div> <!-- /.product-content -->
+                        </div> <!-- /.product-item-2 -->
+						<div class="product-item-2">
+                            <div class="product-thumb">
+                                <img src="images/1.png" alt="Product Title" ">
+                            </div> <!-- /.product-thumb -->
+                            <div class="product-content overlay">
+                                <h5><a href="#">MAC  Matte Lipstick #Pink Pigeon M.A.C 3g</a></h5>
+								<span class="price">ราคา 850  บาท</span>
+                                <p> ลิปสติกที่โดดเด่นในเรื่องของสีสัน และเท็กซ์เจอร์ที่หลากหลาย #pink pigeon ลิปเนื้อแมท สีชมพูสด</p>
+                            </div> <!-- /.product-content -->
+                        </div> <!-- /.product-item-2 -->
+						<div class="product-item-2">
+                            <div class="product-thumb">
+                                <img src="images/1.png" alt="Product Title" ">
+                            </div> <!-- /.product-thumb -->
+                            <div class="product-content overlay">
+                                <h5><a href="#">Bare With Me 3ml Dose Of Colors</a></h5>
+								<span class="price">ราคา 990 บาท</span>
+                                <p>ลิปแมทท์ตัวดังจากUSA เนื้อเเน่นติดทน แมทท์แต่ไม่หนักปาก ทาครั้งเดียวสีชัดไม่เพี้ยน เลอค่าราคาน่าครอบครอง</p>
+                            </div> <!-- /.product-content -->
+                        </div> <!-- /.product-item-2 -->
+						<div class="product-item-2">
+                            <div class="product-thumb">
+                                <img src="images/1.png" alt="Product Title" ">
+                            </div> <!-- /.product-thumb -->
+                            <div class="product-content overlay">
+                                <h5><a href="#">NYX Soft Matte Lip Cream #Madrid 8ml </a></h5>
+								<span class="price">ราคา 295 บาท</span>
+                                <p>ลิปจุ่มเเมทคุณภาพคุ้มราคาที่สาวๆคลั่งไคล้ ลิปเนื้อนุ่มกลิ่นหอมหวานเเต่เม็ดสีเเน่น ติดทน!!</p>
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="clearfix"></div>
@@ -81,4 +105,4 @@
                 </div> <!-- /.col-md-5 -->
             </div> <!-- /.row -->
         </div> <!-- /.container -->
-    </div> <!-- /.content-section -->
+		    </div> <!-- /.content-section -->
