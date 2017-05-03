@@ -17,8 +17,9 @@
                                 <img src="images/1.png" alt="Product Title" ">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-                                <h5><a href="#">PRIMER</a></h5>
-                                <p>ไพรเมอร์ จะทำหน้าที่เตรียมผิวก่อนแต่งหน้า โดยทำหน้าที่กระชับรูขุมขน ทำให้รูขุมขนดูเล็กลง ผิวดูกระชับขึ้นทำให้การลงรองพื้นดูเนียนเรียบ ป้องกันผิวหน้าหมองคล้ำระหว่างวัน และทำให้เครื่องสำอางติดทนนานยิ่งขึ้น</p>
+                                <h5><a href="#"></a>Pony Effect Master Eye Palette #Shimmer Master 12g.</h5>
+								<span class="price">ราคา 1550 บาท</span>
+                                <p> พาเลทอายแชโดว์ 8 สีในตลับเดียว เนื้อชิมเมอร์ละเอียดยิบ วิบวับ สีเหลือบสวย โทนสดใสรแต่งหน้าสนุกสนาน</p>
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
@@ -26,8 +27,9 @@
                                 <img src="images/2.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-							<h5><a href="#">EYELINER</a></h5>
-                                <p>อายไลเนอร์ (Eyeliner) เป็นเครื่องสำอางที่ใช้เขียนบริเวณรอบดวงตา เพื่อสร้างความหลากหลายให้กับดวงตา ทั้งดวงตาแบบหวาน ลึกลับ โฉบเฉียว หรือมีสเน่ห์น่าค้นหา อีกทั้งยังช่วยทำให้ดวงตาดูโตขึ้นมากกว่าปกติ ซึ่งอายไลเนอร์นี้มีประวัติการใช้งานคู่กับคุณสาวๆ มาอย่างยาวนาน นับย้อนไปตั้งแต่สมัยอียิปต์โบราณ</p> 
+							<h5><a href="#"></a>TARTE Golden Days and Sultry Nights Palette 3.9 g.</h5>
+							<span class="price">ราคา  1890 บาท</span>
+                                <p> พาเลตอายแชโดว์ 5 สีสวยเก๋สไตล์ Tropicana ครีเอทลุคสดใส งานกลางวัน กลางคืน ก็สามารถ</p> 
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="clearfix"></div>
@@ -40,8 +42,9 @@
                                 <img src="images/3.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-							<h5><a href="#">LIPSTICK</a></h5>
-                                <p>ลิปสติก คือ เครื่องสำอางที่ใช้แต่งริมฝีปาก มักเป็นสีแดงหรือสีชมพู ทำให้ริมฝีปากสวยงาม และปกปิดความบกพร่องของริมฝีปาก</p>
+							<h5><a href="#"></a>Canmake Perfect Stylist Eyes #14 Dreaming Flower</h5>
+							<span class="price">ราคา 390 บาท</span>
+                                <p> พาเลตอายแชโดว์ 5 สีในตลับเดียว อายแชโดว์เนื้อนุ่ม เกลี่ยง่าย สาวๆมือใหม่แต่งตามได้ง่ายๆ</p>
                                 </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
@@ -49,8 +52,9 @@
                                 <img src="images/4.png" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-							<h5><a href="#">BLUSH</a></h5>
-                                <p>บลัชออน คือเครื่องสำอางที่ช่วยเพิ่มสีสันบริเวณแก้ม และยังช่วยสร้างมิติของใบหน้าให้ดูเล็กลงหรือเรียวงามขึ้น นอกจากนี้ยังทำให้ใบหน้าดูนวลเนียน ทำให้สีสันบนใบหน้าดูเด่นชัดขึ้น</p>
+							<h5><a href="#"></a>Wet N Wild Color Icon Eyeshadow Trio #E381B Sweet As Candy 3.5g</h5>
+							<span class="price">ราคา 380 บาท</span>
+                                <p> อายแชโดว์เนื้อเนียน ช่วยแต่งแต้มดวงตาคู่สวยของคุณให้ดูโดดเด่นกว่าที่เคย </p>
                                </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="clearfix"></div>
@@ -63,8 +67,9 @@
                                 <img src="images/5.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-                                <h5><a href="#">EYESHADOW</a></h5>
-                                <p>เครื่องสำอางค์ที่ใช้ปัดทาบนเปลือกตาใต้คิ้ว เพื่อให้เกิดมิติความลึกของตาในแต่ละข้าง นอกจากนั้นแล้วยังทำให้ดูแล้วเด่น มีเสน่ห์อีกด้วย อายแชโดว์ มีหลายชนิด และมีสีสันต่างๆ มากมาย โดยปกติแล้วจะทำมาจากแป้ง และไมก้า ในบางครั้งอาจจะพบอายแชโดว์ในรูปของเหลว ดินสอ ได้เช่นกัน</p>
+                                <h5><a href="#"></a>JILL STUART Ribbon Couture Eyes #01 Engagement Lace</h5>
+								<span class="price">ราคา 1700 บาท</span>
+                                <p> อายเเชโดว์ 5 เฉดสีที่จับคู่มาอย่าลงตัว พร้อมตลับที่ออกแบบมาอย่างหรูหรา น่ารักราวกับเจ้าหญิง </p>
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
@@ -72,8 +77,39 @@
                                 <img src="images/6.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
-                                <h5><a href="#">POWDER</a></h5>
-                                <p>แป้งฝุ่น: คือ แป้งชนิดที่มีเนื้อละเอียดบางเบาเหมือนฝุ่นละอองเล็กๆ เหมาะสำหรับทาทับลงบนผิวหน้าหลังจากการรองพื้น หรือทาคอนซีลเลอร์ไว้ แป้งฝุ่นมีคุณสมบัติ ช่วยให้ผิวดูนวลเนียนเป็นธรรมชาติยิ่งขึ้น และช่วยดูดซับความมันหลังการแต่งหน้าได้เป็นอย่างดี ควรใช้แป้งฝุ่นสีเดียวกันกับผิวเรา </p>
+                                <h5><a href="#"></a>Cute Press TWILIGHT GARDEN EYE&BROW PALETTE 12g </h5>
+								<span class="price">ราคา 399 บาท</span>
+                                <p>อายแชโดว์พาเลท12สี สะกดทุกสายตา สีสันชวนหลงใหลกับบรรยากาศแห่งสวนดอกไม้ต้องแสงยามเย็นแสนละมุน </p>
+                            </div> <!-- /.product-content -->
+                        </div> <!-- /.product-item-2 -->
+						 <div class="product-item-2">
+                            <div class="product-thumb">
+                                <img src="images/6.jpg" alt="Product Title">
+                            </div> <!-- /.product-thumb -->
+                            <div class="product-content overlay">
+                                <h5><a href="#"></a>NYX Butt Naked Underneath It All Paltte</h5>
+								<span class="price">ราคา  1250 บาท</span>
+                                <p> พาเลตสุดคุ้มที่คุณห้ามพลาด!! ทั้งอายเเชโดว์ บรัชออน คอนทัวร์และไฮไลต์ปังในพาเลตเดียว </p>
+                            </div> <!-- /.product-content -->
+                        </div> <!-- /.product-item-2 -->
+						 <div class="product-item-2">
+                            <div class="product-thumb">
+                                <img src="images/6.jpg" alt="Product Title">
+                            </div> <!-- /.product-thumb -->
+                            <div class="product-content overlay">
+                                <h5><a href="#"></a>KYLIE Royal Peach Kyshadow Palette 1.4gx12</h5>
+								<span class="price">ราคา  3200 บาท</span>
+                                <p> สี อายเเชโดว์สีเเซ่บ!! เม็ดสีเเน่นที่สาวทั่วโลกเเย่งชิง บล๊อคเกอร์พากันรีวิวสร้างลุคเป๊ะๆ  </p>
+                            </div> <!-- /.product-content -->
+                        </div> <!-- /.product-item-2 -->
+							 <div class="product-item-2">
+                            <div class="product-thumb">
+                                <img src="images/6.jpg" alt="Product Title">
+                            </div> <!-- /.product-thumb -->
+                            <div class="product-content overlay">
+                                <h5><a href="#"></a>TARTE Color Vibes Amazonian Clay Eyeshadow Palette</h5>
+								<span class="price">ราคา 2650 บาท</span>
+                                <p> พาเลทตัวดังที่สาวๆตามหากับ 20 เฉดสีที่รวบรวมไว้ หน้าปังได้ทุกวัน ครีเอทได้ทุกลุค!!  </p>
                             </div> <!-- /.product-content -->
                         </div> <!-- /.product-item-2 -->
                         <div class="clearfix"></div>
