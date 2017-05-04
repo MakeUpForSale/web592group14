@@ -14,7 +14,7 @@
                     <div class="product-holder">
                         <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/1.png" alt="Product Title" ">
+                                <img src="https://images-na.ssl-images-amazon.com/images/I/51yWLs4wfxL._SY355_.jpg" alt="Product Title" ">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
                                 <h5><a href="#"></a>Pony Effect Master Eye Palette #Shimmer Master 12g.</h5>
@@ -24,7 +24,7 @@
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/2.jpg" alt="Product Title">
+                                <img src="http://www.hellomissniki.com/wp-content/uploads/2014/05/golden-days-palette-group-shot.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
 							<h5><a href="#"></a>TARTE Golden Days and Sultry Nights Palette 3.9 g.</h5>
@@ -39,7 +39,7 @@
                     <div class="product-holder">
                         <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/3.jpg" alt="Product Title">
+                                <img src="https://www.beauticool.com/product_images/58e9fe507dc52.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
 							<h5><a href="#"></a>Canmake Perfect Stylist Eyes #14 Dreaming Flower</h5>
@@ -49,7 +49,7 @@
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/4.png" alt="Product Title">
+                                <img src="https://res.weloveshopping.com/922547/w_228,h_228,c_thumb/w_228,h_228,c_thumb/25bc22764c93e84dadf6277c6d1a6dec/25bc22764c93e84dadf6277c6d1a6dec.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
 							<h5><a href="#"></a>Wet N Wild Color Icon Eyeshadow Trio #E381B Sweet As Candy 3.5g</h5>
@@ -64,7 +64,7 @@
                     <div class="product-holder">
                         <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/5.jpg" alt="Product Title">
+                                <img src="http://i1.ebayimg.com/thumbs/images/m/m9YGnysKUW-ceJEgAY-89zQ/s-l225.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
                                 <h5><a href="#"></a>JILL STUART Ribbon Couture Eyes #01 Engagement Lace</h5>
@@ -74,7 +74,7 @@
                         </div> <!-- /.product-item-2 -->
                         <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/6.jpg" alt="Product Title">
+                                <img src="http://www.bloggang.com/data/k/kwonsoploy/picture/1470216275.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
                                 <h5><a href="#"></a>Cute Press TWILIGHT GARDEN EYE&BROW PALETTE 12g </h5>
@@ -84,7 +84,7 @@
                         </div> <!-- /.product-item-2 -->
 						 <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/6.jpg" alt="Product Title">
+                                <img src="http://www.musingsofamuse.com/wp-content/uploads/2015/10/NYX-Butt-Naked-Underneath-It-All.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
                                 <h5><a href="#"></a>NYX Butt Naked Underneath It All Paltte</h5>
@@ -94,7 +94,7 @@
                         </div> <!-- /.product-item-2 -->
 						 <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/6.jpg" alt="Product Title">
+                                <img src="https://cdn.shopify.com/s/files/1/1133/5964/products/Royal-Peach---Open.jpg?v=1487028833" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
                                 <h5><a href="#"></a>KYLIE Royal Peach Kyshadow Palette 1.4gx12</h5>
@@ -104,7 +104,7 @@
                         </div> <!-- /.product-item-2 -->
 							 <div class="product-item-2">
                             <div class="product-thumb">
-                                <img src="images/6.jpg" alt="Product Title">
+                                <img src="https://www.dhresource.com/0x0/f2/albu/g5/M01/B9/2F/rBVaI1hM5ZKAZjSLAAYnHmb3V_s144.jpg" alt="Product Title">
                             </div> <!-- /.product-thumb -->
                             <div class="product-content overlay">
                                 <h5><a href="#"></a>TARTE Color Vibes Amazonian Clay Eyeshadow Palette</h5>
@@ -118,3 +118,7 @@
             </div> <!-- /.row -->
         </div> <!-- /.container -->
     </div> <!-- /.content-section -->
+
+
+
+
